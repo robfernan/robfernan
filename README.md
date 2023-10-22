@@ -21,6 +21,8 @@ Art Software: Aesprite, Corel Painter, Krita
 <br>
 Hardware: Wacom Mobile Studio 13, Arduino Nano, MSP430, RaspberryPi4, Apple Mac Studio M1 Max, Steam Deck
 <br>
+Operating Systems: Windows 10, Linux, Apple MacOS
+<br>
 Smart Watch: Google Pixel Watch
 <br>
 App Development Hardware: IPhone 11, Google Pixel 6, Google Pixel 7 Pro
