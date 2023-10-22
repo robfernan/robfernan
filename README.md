@@ -34,6 +34,15 @@ Certifications: <br>
 - Adobe Certified Associate: Animate, Photoshop, Dreamweaver, Illustrator
   <br>
 - Microsoft Office Specialist: Excel, Word, PowerPoint, Access
+<br>
+College Courses:
+<br>
+• Principles of Software Engineering | Intro to Database Structures | Data Structures
+<br>
+• Intro to Logic Design | Intro to Programming in C | Foundations of Computer Science
+<br>
+• Intro to Internet Computing | Intro to Microprocessors | Design & Analysis of Algorithms
+<br>
 
 Languages:
 Fluent in Spanish and English
