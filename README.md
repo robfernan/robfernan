@@ -12,7 +12,7 @@ The softwares I work with are Android Studio, XCode, Blender 3d, Aesprite, Corel
 IDE : <br>
 - App Development [Android Studio, XCode]
   <br>
-- Zed, Atom, Visual Studio Community, NeoVim, Visual Studio Code Insider
+- Sublime Text, VIM, Zed, Atom, Visual Studio Community, NeoVim, Visual Studio Code Insider
 
 
 Art Software: Aesprite, Corel Painter, Krita
