@@ -16,10 +16,6 @@ I am a passionate developer with experience in a variety of programming language
 - C++, SFML
 
 ### Software & Tools
-- **Current Software:** Obsidian, OSS Code, Vim
-- **IDEs:**
-  - App Development: Android Studio, XCode
-  - Code Editors: Sublime Text, VIM, Zed, Atom, NeoVim, Visual Studio Code
 - **Art Software:** Aesprite, Corel Painter, Krita
 - **3D Software:** Blender, Autodesk Maya, Autodesk 3ds Max
 
