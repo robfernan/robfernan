@@ -24,28 +24,31 @@ I am a passionate developer with experience in a variety of programming language
 - **3D Software:** Blender, Autodesk Maya, Autodesk 3ds Max
 
 ### Hardware
-- Apple Mac M1 Max (Mac OS Sonoma)
-- iPad Pro M1
-- Custom PC
-  - Intel i9-14k CPU
-  - AMD 7900XTX 24 GB GPU
-  - 128 GB DDR5 RAM
-  - 2 x 2TB SSDs (Manjaro Linux XFCE, Windows 11)
-- Wacom Mobile Studio 13
-- Arduino Nano
-- TI MSP430 Micro Controller
-- Raspberry Pi 4
-- Steam Deck
-- **Smart Watch:** Google Pixel Watch
-- **App Development Hardware:** 
-  - iPhone 11
-  - Google Pixel 6
-  - Google Pixel 7 Pro
-- **Retro Consoles:**
-  - PS1, PS2, PS3
-  - PSP-3000, PSP-GO
-  - Gameboy Advance, DS, DS Lite
-  - SEGA Dreamcast
+- **Computers:**
+  - Apple Mac M1 Max (Mac OS Sonoma)
+  - iPad Pro M1
+  - Custom PC
+    - Intel i9-14k CPU
+    - AMD 7900XTX 24 GB GPU
+    - 128 GB DDR5 RAM
+    - 2 x 2TB SSDs (Manjaro Linux XFCE, Windows 11)
+  - Wacom Mobile Studio 13
+- **Microprocessors:**
+  - Raspberry Pi 4
+  - Arduino Nano
+  - TI MSP430 Micro Controller
+- **Other Devices:**
+  - Steam Deck
+  - **Smart Watch:** Google Pixel Watch
+  - **App Development Hardware:** 
+    - iPhone 11
+    - Google Pixel 6
+    - Google Pixel 7 Pro
+  - **Retro Consoles:**
+    - PS1, PS2, PS3
+    - PSP-3000, PSP-GO
+    - Gameboy Advance, DS, DS Lite
+    - SEGA Dreamcast
 
 ### Operating Systems
 - Windows 10, Windows 11
