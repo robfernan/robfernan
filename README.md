@@ -50,8 +50,7 @@ Languages:
 Fluent in Spanish and English
 <br>
 <br>
-🔭 I’m currently working on these projects:
-<br>
+🔭 I’m currently working on these projects: <br>
 • Comic Book Reader in C++ with SFML
 <br>
 • Music Player in C++ in SFML.
