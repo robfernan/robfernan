@@ -69,9 +69,6 @@ I am a passionate developer and graphic designer with experience in a variety of
 
 Feel free to check out my projects and reach out if you want to collaborate!
 
-- Trying to learn Game development and participate in Game Jams as well.
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robfernan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=robfernan&show_icons=true)  
