@@ -6,7 +6,7 @@ I am a passionate developer and graphic designer with experience in a variety of
 
 ### Languages
 - HTML, CSS, JavaScript [Web Development]
-- C++[SFML]
+- C++ [SFML]
 ### Software & Tools
 - **Compilation:** G++
 - **Markdown/Note Editor:** Obsidian
