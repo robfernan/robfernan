@@ -8,6 +8,9 @@ I am a passionate developer and graphic designer with experience in a variety of
 - HTML, CSS, JavaScript [Web Development]
 - C++[SFML]
 ### Software & Tools
+- **Compilation:** G++
+- **Markdown/Note Editor:** Obsidian
+- **Code Editor:** VIM, Atom, OSS Code, VS Code
 - **Art Software:** Aesprite, Corel Painter, Krita
 - **3D Software:** Blender
 
