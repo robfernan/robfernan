@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Robert Fernandez!
+# Hi, I'm Robert Fernandez!
 
 ## About Me
 I am a passionate developer and graphic designer with experience in a variety of programming languages and technologies. Below is an overview of the tools, software, and hardware I work with.
