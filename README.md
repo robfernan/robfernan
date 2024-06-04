@@ -51,11 +51,11 @@ Fluent in Spanish and English
 <br>
 <br>
 🔭 I’m currently working on these projects: <br>
-• Comic Book Reader in C++ with SFML
+- Comic Book Reader in C++ with SFML
 <br>
-• Music Player in C++ in SFML.
+- Music Player in C++ in SFML.
 <br>
-• Trying to learn Game development and participate in Game Jams as well.
+- Trying to learn Game development and participate in Game Jams as well.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robfernan)](https://github.com/anuraghazra/github-readme-stats)
