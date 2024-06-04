@@ -5,6 +5,7 @@
 
 <p align="center">
 I work with HTML, CSS, JavaScript; C++ and SFML
+<br>
 The softwares I'm working with currently are Obsidian, OSS Code, Vim.
 </p>
 
