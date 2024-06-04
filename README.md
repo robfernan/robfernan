@@ -52,9 +52,10 @@ Fluent in Spanish and English
 - 🔭 I’m currently working on this page. 
 <br>
 - My most recent or notable programming projects:
-      - Comic Book Reader in C++ with SFML
 <br>
-  - Music Player in C++ in SFML.
+- Comic Book Reader in C++ with SFML
+<br>
+- Music Player in C++ in SFML.
 <br>
 - Trying to learn Game development and participate in Game Jams as well.
 
