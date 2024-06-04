@@ -8,53 +8,76 @@ I work with HTML, CSS, JavaScript; C++ and SFML
 The softwares I'm working with currently are Obsidian, OSS Code, Vim.
 </p>
 
+### About Me
+I am a passionate developer with experience in a variety of programming languages and technologies. Below is an overview of the tools, software, and hardware I work with.
 
-IDE : <br>
-- App Development [Android Studio, XCode]
-  <br>
-- Sublime Text, VIM, Zed, Atom, NeoVim, Visual Studio Code
+### Languages
+- HTML, CSS, JavaScript
+- C++, SFML
 
+### Software & Tools
+- **Current Software:** Obsidian, OSS Code, Vim
+- **IDEs:**
+  - App Development: Android Studio, XCode
+  - Code Editors: Sublime Text, VIM, Zed, Atom, NeoVim, Visual Studio Code
+- **Art Software:** Aesprite, Corel Painter, Krita
+- **3D Software:** Blender, Autodesk Maya, Autodesk 3ds Max
 
-Art Software: Aesprite, Corel Painter, Krita
-<br>
-3D Software: Blender, Autodesk Maya, Autodesk 3ds Max
-<br>
-Hardware: Apple Mac M1 Max for Mac OS Sonoma, Ipad Pro M1, Custom PC, Wacom Mobile Studio 13, Arduino Nano, TI MSP430 Micro Controller, Raspberry Pi 4, Steam Deck
-<br>
-Custom PC: Intel i9-14k CPU, AMD 7900XTX 24 GB GPU, 128 GB DDR5 Ram, and 2 - 2TB SSDs; one drive is with Manjaro Linux XFCE and other is with Windows 11
-<br>
-Operating Systems: Windows 10, Windows 11, Manjaro Xfce Linux, Apple MacOS Sonoma 
-<br>
-Smart Watch: Google Pixel Watch
-<br>
-App Development Hardware: IPhone 11, Google Pixel 6, Google Pixel 7 Pro
-<br>
-Retro Consoles: PS1, PS2, PS3, PSP-3000, PSP-GO, Gameboy Advance, DS, DS LITE, SEGA Dreamcast
+### Hardware
+- Apple Mac M1 Max (Mac OS Sonoma)
+- iPad Pro M1
+- Custom PC
+  - Intel i9-14k CPU
+  - AMD 7900XTX 24 GB GPU
+  - 128 GB DDR5 RAM
+  - 2 x 2TB SSDs (Manjaro Linux XFCE, Windows 11)
+- Wacom Mobile Studio 13
+- Arduino Nano
+- TI MSP430 Micro Controller
+- Raspberry Pi 4
+- Steam Deck
+- **Smart Watch:** Google Pixel Watch
+- **App Development Hardware:** 
+  - iPhone 11
+  - Google Pixel 6
+  - Google Pixel 7 Pro
+- **Retro Consoles:**
+  - PS1, PS2, PS3
+  - PSP-3000, PSP-GO
+  - Gameboy Advance, DS, DS Lite
+  - SEGA Dreamcast
 
+### Operating Systems
+- Windows 10, Windows 11
+- Manjaro Xfce Linux
+- Apple MacOS Sonoma
 
-Certifications: <br>
-- Adobe Certified Associate: Animate, Photoshop, Dreamweaver, Illustrator
-  <br>
-- Microsoft Office Specialist: Excel, Word, PowerPoint, Access
-<br>
-College Courses:
-<br>
-• Principles of Software Engineering | Intro to Database Structures | Data Structures
-<br>
-• Intro to Logic Design | Intro to Programming in C | Foundations of Computer Science
-<br>
-• Intro to Internet Computing | Intro to Microprocessors | Design & Analysis of Algorithms
-<br>
-<br>
-Languages:
-Fluent in Spanish and English
-<br>
-<br>
-🔭 I’m currently working on these projects: <br>
+### Certifications
+- **Adobe Certified Associate:** Animate, Photoshop, Dreamweaver, Illustrator
+- **Microsoft Office Specialist:** Excel, Word, PowerPoint, Access
+
+### Education
+- **College Courses:**
+  - Principles of Software Engineering
+  - Intro to Database Structures
+  - Data Structures
+  - Intro to Logic Design
+  - Intro to Programming in C
+  - Foundations of Computer Science
+  - Intro to Internet Computing
+  - Intro to Microprocessors
+  - Design & Analysis of Algorithms
+
+### Languages
+- Fluent in Spanish and English
+
+### 🔭 Current Projects
 - Comic Book Reader in C++ with SFML
-<br>
-- Music Player in C++ in SFML.
-<br>
+- Music Player in C++ with SFML
+- Learning game development and participating in Game Jams
+
+Feel free to check out my projects and reach out if you want to collaborate!
+
 - Trying to learn Game development and participate in Game Jams as well.
 
 
