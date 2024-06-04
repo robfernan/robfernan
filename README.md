@@ -20,6 +20,7 @@ Art Software: Aesprite, Corel Painter, Krita
 3D Software: Blender, Autodesk Maya, Autodesk 3ds Max
 <br>
 Hardware: Apple Mac M1 Max for Mac OS Sonoma, Ipad Pro M1, Custom PC, Wacom Mobile Studio 13, Arduino Nano, TI MSP430 Micro Controller, Raspberry Pi 4, Steam Deck
+<br>
 Custom PC: Intel i9-14k CPU, AMD 7900XTX 24 GB GPU, 128 GB DDR5 Ram, and 2 - 2TB SSDs; one drive is with Manjaro Linux XFCE and other is with Windows 11
 <br>
 Operating Systems: Windows 10, Windows 11, Manjaro Xfce Linux, Apple MacOS Sonoma 
