@@ -1,24 +1,15 @@
 
-# Hi there 👋, my name is Robert Fernandez
-## I'm Graphic Designer and Programmer
+# 👋 Hi, I'm Robert Fernandez!
 
-
-<p align="center">
-I work with HTML, CSS, JavaScript; C++ and SFML
-<br>
-The softwares I'm currently working with are Obsidian, OSS Code, Vim.
-</p>
-
-### About Me
-I am a passionate developer with experience in a variety of programming languages and technologies. Below is an overview of the tools, software, and hardware I work with.
+## About Me
+I am a passionate developer and graphic designer with experience in a variety of programming languages and technologies. Below is an overview of the tools, software, and hardware I work with.
 
 ### Languages
-- HTML, CSS, JavaScript
-- C++, SFML
-
+- HTML, CSS, JavaScript [Web Development]
+- C++[SFML]
 ### Software & Tools
 - **Art Software:** Aesprite, Corel Painter, Krita
-- **3D Software:** Blender, Autodesk Maya, Autodesk 3ds Max
+- **3D Software:** Blender
 
 ### Hardware
 - **Computers:**
