@@ -49,10 +49,8 @@ College Courses:
 Languages:
 Fluent in Spanish and English
 <br>
-- 🔭 I’m currently working on this page. 
-<br>
-- My most recent or notable programming projects:
-<br>
+🔭 I’m currently working on these projects:
+
 - Comic Book Reader in C++ with SFML
 <br>
 - Music Player in C++ in SFML.
