@@ -45,12 +45,12 @@ College Courses:
 <br>
 • Intro to Internet Computing | Intro to Microprocessors | Design & Analysis of Algorithms
 <br>
-
+<br>
 Languages:
 Fluent in Spanish and English
 <br>
+<br>
 🔭 I’m currently working on these projects:
-
 - Comic Book Reader in C++ with SFML
 <br>
 - Music Player in C++ in SFML.
