@@ -22,7 +22,6 @@ I am a passionate developer with experience in a variety of programming language
 ### Hardware
 - **Computers:**
   - Apple Mac M1 Max (Mac OS Sonoma)
-  - iPad Pro M1
   - Custom PC
     - Intel i9-14k CPU
     - AMD 7900XTX 24 GB GPU
@@ -40,6 +39,7 @@ I am a passionate developer with experience in a variety of programming language
     - iPhone 11
     - Google Pixel 6
     - Google Pixel 7 Pro
+    - iPad Pro M1
   - **Retro Consoles:**
     - PS1, PS2, PS3
     - PSP-3000, PSP-GO
