@@ -1,76 +1,23 @@
 
-# Hi, I'm Robert Fernandez!
+# Hi, I'm Robert Fernandez! 👋
 
-## About Me
-I am a passionate developer and graphic designer with experience in a variety of programming languages and technologies. Below is an overview of the tools, software, and hardware I work with.
+A **Software Developer** with a passion for building **interactive, cross-platform applications** using **C++**, **Lua**, and **SFML**. I specialize in making **multimedia apps**. With a deep-rooted interest in **retro tech** and **hands-on projects**, I am always striving to learn and create innovative software solutions.
 
-### Languages
-- HTML, CSS, JavaScript [Web Development]
-- C++ [SFML]
-### Software & Tools
-- **Compilation:** G++
-- **Markdown/Note Editor:** Obsidian
-- **Code Editor:** VIM, Atom, OSS Code, VS Code
-- **Art Software:** Aesprite, Corel Painter, Krita
-- **3D Software:** Blender
+## 🚀 Software Developer & Designer
+- **Languages & Frameworks**: C++, Lua, SFML, Love2D, HTML, CSS, JavaScript
+- **Other Skills**: UI Design, Cross-Platform Development, Multimedia Apps, Robotics, DIY Projects
 
-### Hardware
-- **Computers:**
-  - Apple Mac M1 Max (Mac OS Sonoma)
-  - Custom PC
-    - Intel i9-14k CPU
-    - AMD 7900XTX 24 GB GPU
-    - 128 GB DDR5 RAM
-    - 2 x 2TB SSDs (Manjaro Linux XFCE, Windows 11)
-  - Wacom Mobile Studio 13
-- **Microprocessors:**
-  - Raspberry Pi 4
-  - Arduino Nano
-  - TI MSP430 Micro Controller
-- **Other Devices:**
-  - Steam Deck
-  - **Smart Watch:** Google Pixel Watch
-  - **App Development Hardware:** 
-    - iPhone 11
-    - Google Pixel 6
-    - Google Pixel 7 Pro
-    - iPad Pro M1
-  - **Retro Consoles:**
-    - PS1, PS2, PS3
-    - PSP-3000, PSP-GO
-    - Gameboy Advance, DS, DS Lite
-    - SEGA Dreamcast
+## 🎯 Projects:
+- **Love2D Music Player**: A **cross-platform** music player built with **Lua** and **Love2D**, demonstrating my skills in **UI design**, **multimedia integration**, and **cross-platform compatibility**.
+- **SFML Music Player**: showcasing my ability to use **C++** to develop my music player that has a pause/play button, volume slider, and progress bar.
+- **SFML Comic Reader**: Using C++ to develop a Comic book reader with page numbers and allows both pages to be showcased when F11 is clciked making it two page view and you can change pages, zoom in and out
+- **XMB-style Launcher**: A **cross-platform launcher** inspired by the **PSP** XMB interface, featuring dynamic backgrounds, support for games and multimedia, and interactive animations. It's an example of my ability to create **immersive, user-friendly applications** with **real-time 3D rendering**.
 
-### Operating Systems
-- Windows 10, Windows 11
-- Manjaro Xfce Linux
-- Apple MacOS Sonoma
+## 🚀 What I'm Working On:
+- Creating **cross-platform launchers** and **multimedia apps** with **SFML** and **Love2D**.
 
-### Certifications
-- **Adobe Certified Associate:** Animate, Photoshop, Dreamweaver, Illustrator
-- **Microsoft Office Specialist:** Excel, Word, PowerPoint, Access
-
-### Education
-- **College Courses:**
-  - Principles of Software Engineering
-  - Intro to Database Structures
-  - Data Structures
-  - Intro to Logic Design
-  - Intro to Programming in C
-  - Foundations of Computer Science
-  - Intro to Internet Computing
-  - Intro to Microprocessors
-  - Design & Analysis of Algorithms
-
-### Languages
-- Fluent in Spanish and English
-
-### 🔭 Current Projects
-- Comic Book Reader in C++ with SFML
-- Music Player in C++ with SFML
-- Learning game development and participating in Game Jams
-
-Feel free to check out my projects and reach out if you want to collaborate!
+## 🛠️ Current Focus:
+- Enhancing the **XMB-style launcher** to include more interactive features, advanced animations, and support for more platforms.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robfernan)](https://github.com/anuraghazra/github-readme-stats)
 
