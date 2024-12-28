@@ -1,4 +1,4 @@
-#Hi, I'm Robert
+# Hi, I'm Robert
 
 🎮 MungDaal321 | 💻 Software Developer | 🎨 Designer
 
@@ -17,8 +17,8 @@ Goal: Build tools and games that are fun, functional, and accessible across plat
 
 
 
-
-## Web Development (HTML, CSS, JavaScript)
+# Web Development 
+## HTML, CSS, JavaScript
 
     Personal Portfolio Website
         Features:
@@ -39,7 +39,7 @@ Goal: Build tools and games that are fun, functional, and accessible across plat
         Technical Documentation Page: Clean, structured layout for technical writing.
         Menu
 
-🎮 Game and Desktop Application Development
+# Game and Desktop Application Development
 ## Love2D with Lua
 
     Horror Top-Down Game 🎮
