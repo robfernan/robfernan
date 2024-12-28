@@ -1,23 +1,84 @@
 
-# Hi, I'm Robert Fernandez! 👋
+Hi, I'm Robert
 
-A **Software Developer** with a passion for building **interactive, cross-platform applications** using **C++**, **Lua**, and **SFML**. I specialize in making **multimedia apps**. With a deep-rooted interest in **retro tech** and **hands-on projects**, I am always striving to learn and create innovative software solutions.
+🎮 MungDaal321 | 💻 Software Developer | 🎨 Designer
 
-## 🚀 Software Developer & Designer
-- **Languages & Frameworks**: C++, Lua, SFML, Love2D, HTML, CSS, JavaScript
-- **Other Skills**: UI Design, Cross-Platform Development, Multimedia Apps, Robotics, DIY Projects
+I am a Software Developer with a passion for creating interactive, cross-platform applications using C++, Lua, and SFML. My work spans game development, desktop applications, and web development, blending creativity with technical expertise.
 
-## 🎯 Projects:
-- **Love2D Music Player**: A **cross-platform** music player built with **Lua** and **Love2D**, demonstrating my skills in **UI design**, **multimedia integration**, and **cross-platform compatibility**.
-- **SFML Music Player**: showcasing my ability to use **C++** to develop my music player that has a pause/play button, volume slider, and progress bar.
-- **SFML Comic Reader**: Using C++ to develop a Comic book reader with page numbers and allows both pages to be showcased when F11 is clciked making it two page view and you can change pages, zoom in and out
-- **XMB-style Launcher**: A **cross-platform launcher** inspired by the **PSP** XMB interface, featuring dynamic backgrounds, support for games and multimedia, and interactive animations. It's an example of my ability to create **immersive, user-friendly applications** with **real-time 3D rendering**.
+By day, I develop innovative software solutions and expand my skills in multimedia applications. By night, I stream my coding and creative process on Twitch and YouTube as MungDaal321, sharing my projects and connecting with a global audience.
 
-## 🚀 What I'm Working On:
-- Creating **cross-platform launchers** and **multimedia apps** with **SFML** and **Love2D**.
+🚀 About Me
 
-## 🛠️ Current Focus:
-- Enhancing the **XMB-style launcher** to include more interactive features, advanced animations, and support for more platforms.
+Current Focus: Creating impressive graphics websites with HTML, CSS, JS & software applications with SFML and Love2D.
+
+🎮 Streaming Content: Gaming, Live coding, game development, and art creation on Twitch & Youtube.
+
+Goal: Build tools and games that are fun, functional, and accessible across platforms.
+
+
+
+
+
+# Web Development (HTML, CSS, JavaScript)
+
+    Personal Portfolio Website
+        Features:
+            Projects: Showcases my expertise and work in web, game, and desktop application development.
+            Aviation Tools: Includes weight & balance calculators and weather analysis.
+            Art Gallery: A display of my personal artworks and designs.
+            Streaming: Displays my Youtube & Twitch
+        Link: robertfernandez.dev
+
+    Landing Page
+        A client-focused project featuring:
+            Home: Introduction to the company.
+            Services: Detailed descriptions of services offered.
+
+    FreeCodeCamp & School Projects
+        Calculator: Fully functional and responsive.
+        Tic Tac Toe: Interactive browser game.
+        Technical Documentation Page: Clean, structured layout for technical writing.
+        Menu
+
+🎮 Game and Desktop Application Development
+# Love2D with Lua
+
+    Horror Top-Down Game 🎮
+        Features:
+            Atmospheric lighting and sound effects.
+            AI-driven enemy behavior and player interactions.
+            4 Objective
+            Built for suspenseful, engaging gameplay.
+
+    Music Player 🎵
+        A minimalist, cross-platform music player.
+        Features: Playlists, volume control, and responsive UI.
+
+    Comic Reader
+        Has Single Page view and two page view
+
+    Key Logger & Note Editor
+        Lightweight tools for quick text input and logging, built for customization and ease of use.
+
+# SFML with C++
+
+    XMB-Style Launcher 🖥️
+        Inspired by the PSP interface, featuring:
+            Dynamic backgrounds and animations.
+            Support for games and multimedia.
+            Cross-platform compatibility.
+
+    Comic Reader 📚
+        Features:
+            Toggleable single-page and two-page views.
+            Zooming and intuitive navigation controls.
+
+    Music Player 🎵
+        A fully featured desktop music player with:
+            Pause/play functionality.
+            Volume slider and progress bar for an enhanced user experience.
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robfernan)](https://github.com/anuraghazra/github-readme-stats)
 
