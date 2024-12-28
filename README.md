@@ -1,5 +1,4 @@
-
-Hi, I'm Robert
+#Hi, I'm Robert
 
 🎮 MungDaal321 | 💻 Software Developer | 🎨 Designer
 
@@ -19,7 +18,7 @@ Goal: Build tools and games that are fun, functional, and accessible across plat
 
 
 
-# Web Development (HTML, CSS, JavaScript)
+## Web Development (HTML, CSS, JavaScript)
 
     Personal Portfolio Website
         Features:
@@ -41,7 +40,7 @@ Goal: Build tools and games that are fun, functional, and accessible across plat
         Menu
 
 🎮 Game and Desktop Application Development
-# Love2D with Lua
+## Love2D with Lua
 
     Horror Top-Down Game 🎮
         Features:
@@ -60,7 +59,7 @@ Goal: Build tools and games that are fun, functional, and accessible across plat
     Key Logger & Note Editor
         Lightweight tools for quick text input and logging, built for customization and ease of use.
 
-# SFML with C++
+## SFML with C++
 
     XMB-Style Launcher 🖥️
         Inspired by the PSP interface, featuring:
@@ -78,7 +77,7 @@ Goal: Build tools and games that are fun, functional, and accessible across plat
             Pause/play functionality.
             Volume slider and progress bar for an enhanced user experience.
 
-
+📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robfernan)](https://github.com/anuraghazra/github-readme-stats)
 
