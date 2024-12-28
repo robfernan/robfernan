@@ -8,11 +8,14 @@ By day, I develop innovative software solutions and expand my skills in multimed
 
 ## 🚀 About Me
 
-### Current Focus: Creating impressive graphics websites with HTML, CSS, JS & software applications with SFML and Love2D.
+### Current Focus: 
+        Creating impressive graphics websites with HTML, CSS, JS & software applications with SFML and Love2D.
 
-### 🎮 Streaming Content: Gaming, Live coding, game development, and art creation on Twitch & Youtube.
+### 🎮 Streaming Content: 
+        Gaming, Live coding, game development, and art creation on Twitch & Youtube.
 
-### Goal: Build tools and games that are fun, functional, and accessible across platforms.
+### Goal: 
+        Build tools and games that are fun, functional, and accessible across platforms.
 
 
 
