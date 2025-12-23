@@ -57,8 +57,4 @@ Software engineer building full-stack applications, embedded systems, and retro 
 
 ![AviationPro Screenshot](https://github.com/robfernan/AviationPro/raw/main/assets/screenshots/flightplan.png)
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robfernan&show_icons=true&theme=radical&hide_border=true)
-
 ---
