@@ -59,6 +59,6 @@ Software engineer building full-stack applications, embedded systems, and retro 
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robfernan&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robfernan&show_icons=true&theme=radical&hide_border=true)
 
 ---
