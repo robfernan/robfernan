@@ -1,4 +1,7 @@
+![Banner](https://raw.githubusercontent.com/robfernan/robfernan/main/banner.png)
+
 # Robert Fernandez
+
 
 [![GitHub followers](https://img.shields.io/github/followers/robfernan?label=Follow&style=social)](https://github.com/robfernan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-robertfernandez.dev-blue)](https://robertfernandez.dev/)
