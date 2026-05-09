@@ -137,4 +137,4 @@ Streaming live coding, gaming, and art on [YouTube](https://www.youtube.com/@Mun
 - **Live aviation tools** — AviationPro built and used during actual pilot training
 - **Console homebrew** — JavaScript running on PS2 hardware; PSP and PS1 open-source tutorials
 - **Certifications** — Adobe Certified Professional (Animate, Dreamweaver, Illustrator, Photoshop), Microsoft Office Specialist (Access, PowerPoint, Excel, Word), SSI Open Water Diver + Enriched Air Nitrox Level 2
-- **Aviation** — Student pilot, first solo flight Dec 2024, towered solos at Ft Pierce Jul 2025
+- **Aviation** — Student pilot, first solo flight Dec 2024, towered solos at Ft Pierce Jul 2025, first solo cross country Nov 2025, 120 hrs currently as of 5.9.2026
