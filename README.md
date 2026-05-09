@@ -30,8 +30,8 @@ Bilingual (English/Spanish) · West Palm Beach, FL · [robertfernandez.dev](http
 
 ## GitHub Stats
 
-![Robert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robfernan&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robfernan&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![GitHub Streak](https://streak-stats.demolab.com?user=robfernan&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robfernan&layout=compact&theme=dark&hide_border=true)
 
 ---
 
