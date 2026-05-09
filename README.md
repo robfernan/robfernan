@@ -92,7 +92,29 @@ Bilingual (English/Spanish) · West Palm Beach, FL · [robertfernandez.dev](http
 - **Live aviation tools** — AviationPro built and used during actual pilot training
 - **Console homebrew** — JavaScript running on PS2 hardware; PSP and PS1 open-source tutorials
 - **Certifications** — Adobe Certified Professional (Animate, Dreamweaver, Illustrator, Photoshop), Microsoft Office Specialist (Access, PowerPoint, Excel, Word), SSI Open Water Diver + Enriched Air Nitrox Level 2
-- **Aviation** — Student pilot, first solo flight Dec 2024, towered solos at Ft Pierce Jul 2025, first solo cross-country Nov 2025
+- **Aviation** — Student pilot, first solo flight Dec 2024, towered solos at Ft Pierce Jul 2025
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <a href="https://robertfernandez.dev">
+    <img src="https://raw.githubusercontent.com/robfernan/robfernan/main/porfolio-home.png" width="32%" alt="robertfernandez.dev homepage">
+  </a>
+  <a href="https://robertfernandez.dev/aviationpro">
+    <img src="https://raw.githubusercontent.com/robfernan/robfernan/main/aviationpro-cx6.png" width="32%" alt="AviationPro CX-6 Flight Computer">
+  </a>
+  <a href="https://mungdaal321.itch.io/hopeless-catch">
+    <img src="https://img.itch.zone/aW1hZ2UvMzgzNjQ5OS8yNDgwOTQxNS5wbmc=/original/Vu98FS.png" width="32%" alt="Hopeless Catch">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://robertfernandez.dev"><sub>robertfernandez.dev</sub></a> &nbsp;·&nbsp;
+  <a href="https://robertfernandez.dev/aviationpro"><sub>AviationPro — CX-6 Flight Computer</sub></a> &nbsp;·&nbsp;
+  <a href="https://mungdaal321.itch.io/hopeless-catch"><sub>Hopeless Catch on Itch.io</sub></a>
+</p>
 
 ---
 
