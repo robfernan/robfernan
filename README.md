@@ -2,7 +2,6 @@
 
 # Robert Fernandez
 
-
 [![GitHub followers](https://img.shields.io/github/followers/robfernan?label=Follow&style=social)](https://github.com/robfernan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-robertfernandez.dev-blue)](https://robertfernandez.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-robfernan-0077B5?logo=linkedin)](https://linkedin.com/in/robfernan/)
@@ -19,6 +18,7 @@
 > Coding since 2012 · Car art blog since 2014 · First solo flight Dec 2024 · Published game Aug 2025 · 90+ projects across 12+ languages
 
 Bilingual (English/Spanish) · West Palm Beach, FL · [robertfernandez.dev](https://robertfernandez.dev)
+Streaming live coding, gaming, and art on [YouTube](https://www.youtube.com/@MungDaal321) & [Twitch](https://www.twitch.tv/mungdaal321) · Dev logs & photography on the [blog](https://robertfernandez1.wordpress.com)
 
 <p align="center">
   <a href="https://robertfernandez.dev">
@@ -31,7 +31,6 @@ Bilingual (English/Spanish) · West Palm Beach, FL · [robertfernandez.dev](http
 ## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=robfernan&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robfernan&layout=compact&theme=dark&hide_border=true)
 
 ---
 
@@ -59,42 +58,65 @@ Bilingual (English/Spanish) · West Palm Beach, FL · [robertfernandez.dev](http
 </p>
 
 - **[Comic_Reader](https://github.com/robfernan/Comic_Reader)** — C++ SFML comic reader with two versions: full UI (Browse, Bookmarks, Unread) and functional reader (page nav, zoom, drag-to-pan).
-- **[html-css-js-portfolio](https://github.com/robfernan/html-css-js-portfolio)** — Original portfolio in vanilla HTML/CSS/JS. 4 themes, live METAR weather, aviation calculators, zero frameworks. Predecessor to the React portfolio.
+- **[html-css-js-portfolio](https://github.com/robfernan/html-css-js-portfolio)** — Original portfolio in vanilla HTML/CSS/JS. 4 themes, live METAR weather, aviation calculators, zero frameworks.
 
 **Console & Embedded**
 - **[PSP-Programming](https://github.com/robfernan/PSP-Programming)** — PSP homebrew tutorials using C, SDL2, and PSPSDK with step-by-step examples.
 - **[PS1-Mips-Programming](https://github.com/robfernan/PS1-Mips-Programming)** — PS1 MIPS assembly and PSYQ SDK examples covering rendering, shading, and 3D.
-- **[nero-js](https://github.com/robfernan/nero-js)** — JavaScript running on real PS2 hardware via AthenaEnvJS. 9 working modules from Hello World through Scene Management. Research base for NeroWails and NeroGPUI.
-  > Note: The `zed` fork in this profile is the research base for **NeroGPUI** — a Rust/GPUI-powered IDE in development.
-
----
-
-## What I Build
-
-- **Web & Full-Stack** — React, TypeScript, Tailwind CSS, Laravel, Rails, Node.js
-- **Desktop** — C++ with SFML, NW.js, Go (Wails), Rust (GPUI)
-- **Games** — Love2D/Lua, Unity, Godot, Defold, custom SFML engines
-- **Console Homebrew** — PSP, PS1, PS2, Game Boy — C, SDL2, MIPS Assembly, AthenaEnvJS
-- **Aerospace Tools** — Flight planning, navigation, weather, weight & balance for pilots
-- **Graphic Design** — Adobe CC, brand identity, print design, UI/UX
+- **[nero-js](https://github.com/robfernan/nero-js)** — JavaScript running on real PS2 hardware via AthenaEnvJS. 9 working modules from Hello World through Scene Management.
+  > The `zed` fork in this profile is the research base for **NeroGPUI** — a Rust/GPUI-powered IDE in development.
 
 ---
 
 ## Tech Stack
 
-**Languages:** C++, C, Rust, Go, Lua, JavaScript, TypeScript, Python, Ruby, PHP, MIPS Assembly, Game Boy Assembly
+**Languages**
 
-**Frontend:** React, Tailwind CSS, HTML5/CSS3, Hotwire
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=flat)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)
+![Assembly](https://img.shields.io/badge/MIPS_Assembly-525252?style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
-**Backend:** Node.js, Express, Laravel, Rails, SQLAlchemy
+**Frontend & Backend**
 
-**Game/Graphics:** SFML, OpenGL, Love2D, SDL2, Unity, Godot, Defold
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+![Rails](https://img.shields.io/badge/Rails-CC0000?logo=rubyonrails&logoColor=white&style=flat)
 
-**Desktop:** NW.js, Wails (Go), GPUI (Rust), Capacitor
+**Game & Graphics**
 
-**Tools:** Git, Vite, Vitest, Playwright, PostgreSQL, SQLite, Docker
+![SFML](https://img.shields.io/badge/SFML-8CC445?logo=sfml&logoColor=white&style=flat)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=flat)
+![Love2D](https://img.shields.io/badge/Love2D-E0225A?style=flat)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat)
+![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white&style=flat)
+![Defold](https://img.shields.io/badge/Defold-FF5A00?style=flat)
 
-**Design:** Adobe CC (Photoshop, Illustrator, Animate, Dreamweaver), Canva
+**Desktop & Mobile**
+
+![NW.js](https://img.shields.io/badge/NW.js-6DB33F?style=flat)
+![Wails](https://img.shields.io/badge/Wails-FF3E00?style=flat)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=white&style=flat)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=flat)
 
 ---
 
@@ -116,7 +138,3 @@ Bilingual (English/Spanish) · West Palm Beach, FL · [robertfernandez.dev](http
 - **Console homebrew** — JavaScript running on PS2 hardware; PSP and PS1 open-source tutorials
 - **Certifications** — Adobe Certified Professional (Animate, Dreamweaver, Illustrator, Photoshop), Microsoft Office Specialist (Access, PowerPoint, Excel, Word), SSI Open Water Diver + Enriched Air Nitrox Level 2
 - **Aviation** — Student pilot, first solo flight Dec 2024, towered solos at Ft Pierce Jul 2025
-
----
-
-*Streaming live coding, gaming, and art on [YouTube](https://www.youtube.com/@MungDaal321) & [Twitch](https://www.twitch.tv/mungdaal321) · Photography and dev logs on the [blog](https://robertfernandez1.wordpress.com)*
