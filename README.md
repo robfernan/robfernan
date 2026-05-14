@@ -63,7 +63,7 @@ Streaming live coding, gaming, and art on [YouTube](https://www.youtube.com/@Mun
 **Console & Embedded**
 - **[PSP-Programming](https://github.com/robfernan/PSP-Programming)** — PSP homebrew tutorials using C, SDL2, and PSPSDK with step-by-step examples.
 - **[PS1-Mips-Programming](https://github.com/robfernan/PS1-Mips-Programming)** — PS1 MIPS assembly and PSYQ SDK examples covering rendering, shading, and 3D.
-- **[nero-js](https://github.com/robfernan/nero-js)** — JavaScript running on real PS2 hardware via AthenaEnvJS. 9 working modules from Hello World through Scene Management.
+- **[PS2-Programming](https://github.com/robfernan/nero-js)** — JavaScript running on real PS2 hardware via AthenaEnvJS. 9 working modules from Hello World through Scene Management.
   > The `zed` fork in this profile is the research base for **NeroGPUI** — a Rust/GPUI-powered IDE in development.
 
 ---
