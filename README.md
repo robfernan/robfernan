@@ -10,16 +10,22 @@
 [![Blog](https://img.shields.io/badge/Blog-WordPress-21759B?logo=wordpress)](https://robertfernandez1.wordpress.com)
 
 ### Software Developer & Designer  
-### Cross‑Platform Engineering • Web • Desktop • Mobile • Retro Console
+### Cross‑Platform Engineering • Web • Desktop • Mobile • Retro Console  
+
+Bilingual (English/Spanish) · Streaming live coding, gaming, and art on YouTube & Twitch  
+Dev logs & photography on the blog
 
 I build polished, production‑ready software across **web, desktop, mobile, and retro console platforms**.  
 My work blends **engineering, UI/UX, and creative direction** — from business tools to aviation utilities to pixel‑art games.
+
 I’ve shipped a **published game**, delivered **production client software**, built **full document suites**, and created **aviation tools used during real pilot training**.  
 I also develop **PS1/PS2/PSP homebrew**, design interfaces, and build cross‑platform apps using modern stacks.
 
 ---
 
-Bilingual (English/Spanish) Streaming live coding, gaming, and art on YouTube & Twitch · Dev logs & photography on the blog
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=robfernan&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 <p align="center">
   <a href="https://robertfernandez.dev">
@@ -28,16 +34,17 @@ Bilingual (English/Spanish) Streaming live coding, gaming, and art on YouTube & 
 </p>
 
 ---
+
 ## 🚀 Featured Work
 
 ### **AviationPro (Complete)**  
 Cross‑platform flight‑planning suite with full parity across **Web, Desktop (Wails)**, and **Mobile (Capacitor)**.  
-React • TypeScript • TailwindCSS  
+**Built with:** Wails • Capacitor • React • TypeScript • TailwindCSS  
 CX‑6 computer, METAR/TAF weather, weight & balance, navigation tools, digital logbook.
 
 <p align="center">
   <a href="https://robertfernandez.dev/aviationpro">
-    <img src="https://raw.githubusercontent.com/robfernan/robfernan/main/aviationpro.png" width="80%" alt="AviationPro CX-6 Flight Computer">
+    <img src="https://raw.githubusercontent.com/robfernan/robfernan/main/aviationpro.png" width="80%" alt="AviationPro">
   </a>
 </p>
 
@@ -45,12 +52,12 @@ CX‑6 computer, METAR/TAF weather, weight & balance, navigation tools, digital 
 
 ### **PaperworksPro (Complete)**  
 A full document automation suite (Invoices, Resumes, Business Cards).  
-Rebuilt for **Web + Desktop (Wails)** and **Mobile (Capacitor)**.  
+**Built with:** Wails • Capacitor • React • TypeScript • TailwindCSS  
 Originally created for a real business; now a polished cross‑platform product.
 
 <p align="center">
-  <a href="https://robertfernandez.dev/aviationpro">
-    <img src="https://raw.githubusercontent.com/robfernan/robfernan/main/paperworks.png" width="80%" alt="Paperworks">
+  <a href="https://robertfernandez.dev/paperworks">
+    <img src="https://raw.githubusercontent.com/robfernan/robfernan/main/paperworks.png" width="80%" alt="PaperworksPro">
   </a>
 </p>
 
@@ -58,12 +65,13 @@ Originally created for a real business; now a polished cross‑platform product.
 
 ### **PSP Digital Comics**  
 A faithful PSP Digital Comics–style reader.  
-Users bring their own **CBZ files** and can read it on the **React | Typescript | TailwindCSS, Desktop (Wails)**, and **Mobile (Capacitor)** build.  
+Users bring their own **CBZ files**.  
+**Built with:** Wails • Capacitor • React • TypeScript • TailwindCSS  
 This is the **modern, cross‑platform successor** to the SFML Comic Reader.
 
 <p align="center">
-  <a href="https://robertfernandez.dev/aviationpro">
-    <img src="https://raw.githubusercontent.com/robfernan/robfernan/main/digital_comics.png" width="80%" alt="AviationPro CX-6 Flight Computer">
+  <a href="https://robertfernandez.dev/digitalcomics">
+    <img src="https://raw.githubusercontent.com/robfernan/robfernan/main/digital_comics.png" width="80%" alt="PSP Digital Comics">
   </a>
 </p>
 
@@ -86,10 +94,6 @@ Low‑level homebrew development:
 - PS1 MIPS assembly (PSYQ SDK)  
 - PSP C/SDL2 tutorials  
 - PS2 JavaScript runtime (AthenaEnvJS) with 9 working modules  
-
----
-
-![GitHub Streak](https://streak-stats.demolab.com?user=robfernan&theme=dark&hide_border=true)
 
 ---
 
@@ -153,7 +157,6 @@ Low‑level homebrew development:
 
 ---
 
-
 ## 🔧 Currently Building
 
 - **NeroWails** — Cross‑platform IDE (Go + Wails)  
@@ -173,4 +176,3 @@ Low‑level homebrew development:
 - **Aviation Milestones** — First solo (Dec 2024), towered solos (Jul 2025), solo cross‑country (Nov 2025), 120+ hours as of 2026
 
 ---
-
