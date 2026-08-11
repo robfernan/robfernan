@@ -205,6 +205,11 @@ Low‑level homebrew development:
 ## 🔧 Currently Building
 
 - **Love2D Xbox‑Inspired Launcher** — Retro‑tech UI launcher inspired by Xbox blades, built in Lua/LÖVE
+<p align="center">
+<a href="https://github.com/robfernan/robfernan">
+<img src="https://github.com/robfernan/robfernan/blob/main/xbox_love2d.png" width="80%" alt="Love2D Xbox-Inspired Launcher Progress">
+</a>
+</p>
 
 - **Art Page Redesign** — Magazine‑style layout for robertfernandez.dev/art
 
