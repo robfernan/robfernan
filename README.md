@@ -41,16 +41,56 @@ I also develop **PS1/PS2/PSP homebrew**, design interfaces, and build cross‑pl
 ## 🚀 Featured Work
 
 ### **AviationPro (Complete)**  
-Cross‑platform flight‑planning suite with full parity across **Web, Desktop (Wails)**, and **Mobile (Capacitor)**.  
-**Built with:** Wails • Capacitor • React • TypeScript • TailwindCSS  
-CX‑6 computer, METAR/TAF weather, weight & balance, navigation tools, digital logbook.
+**AviationPro is a professional‑grade pilot utility suite built for precision, clarity, and real‑time situational awareness. Engineered with a Unified UI Architecture, it delivers a seamless experience across frameless desktop environments (Wails), native mobile EFBs (Capacitor), and dedicated wearable tools on Wear OS.**
 
-<p align="center">
-  <a href="https://robertfernandez.dev/aviationpro">
-    <img src="https://raw.githubusercontent.com/robfernan/robfernan/main/aviationpro.png" width="80%" alt="AviationPro">
+CX‑6 flight computer · METAR/TAF weather · Weight & Balance · Navigation tools · Digital logbook  
+**Built with:** Wails • Capacitor • React • TypeScript • TailwindCSS
+
+---
+
+### **Platform Views**
+
+<table>
+<tr>
+<th align="center">Desktop (Wails)</th>
+<th align="center">Mobile (Capacitor)</th>
+<th align="center">Watch App (Wear OS)</th>
+<th align="center">Watch Face (WFF)</th>
+</tr>
+
+<tr>
+<td align="center"><strong>Hardware‑style frameless canvas</strong></td>
+<td align="center"><strong>Responsive, touch‑ready EFB</strong></td>
+<td align="center"><strong>Live Sync METAR Monitor</strong></td>
+<td align="center"><strong>Zulu‑first Aviator Face</strong></td>
+</tr>
+
+<tr>
+<td align="center">
+  <a href="https://github.com/robfernan/AviationPro">
+    <img src="https://raw.githubusercontent.com/robfernan/robfernan/main/aviationpro.png" width="90%" alt="AviationPro Desktop View">
   </a>
-</p>
+</td>
 
+<td align="center">
+  <a href="https://github.com/robfernan/AviationPro">
+    <img src="https://github.com/robfernan/AviationPro/raw/main/assets/screenshots/hero_mobile.png" width="90%" alt="AviationPro Mobile View">
+  </a>
+</td>
+
+<td align="center">
+  <a href="https://github.com/robfernan/AviationPro">
+    <img src="https://github.com/robfernan/AviationPro/raw/main/assets/screenshots/hero_watch_app.png" width="70%" alt="AviationPro Wear OS App">
+  </a>
+</td>
+
+<td align="center">
+  <a href="https://github.com/robfernan/AviationPro">
+    <img src="https://github.com/robfernan/AviationPro/raw/main/assets/screenshots/hero_watch_face.png" width="70%" alt="AviationPro Watch Face">
+  </a>
+</td>
+</tr>
+</table>
 ---
 
 ### **PaperworksPro (Complete)**  
