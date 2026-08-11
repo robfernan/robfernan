@@ -9,14 +9,17 @@
 [![Twitch](https://img.shields.io/badge/Twitch-mungdaal321-9146FF?logo=twitch)](https://www.twitch.tv/mungdaal321)
 [![Blog](https://img.shields.io/badge/Blog-WordPress-21759B?logo=wordpress)](https://robertfernandez1.wordpress.com)
 
-### Software Developer & Designer  
-### Cross‑Platform Engineering • Web • Desktop • Mobile • Retro Console  
+### Software Engineer • Digital Artist • Cross‑Platform Developer  
+### Web • Desktop • Mobile • WearOS • Retro Consoles  
 
-Bilingual (English/Spanish) · Streaming live coding, gaming, and art on YouTube & Twitch  
-Dev logs & photography on the blog
+Bilingual (English/Spanish) · Streaming live coding, art, and retro‑tech on YouTube & Twitch  
+Dev logs, photography, and design posts on the blog
 
-I build polished, production‑ready software across **web, desktop, mobile, and retro console platforms**.  
-My work blends **engineering, UI/UX, and creative direction** — from business tools to aviation utilities to pixel‑art games.
+I blend **automotive concept design**, **aviation discipline**, and **cross‑platform engineering** to build polished, high‑performance applications.  
+My signature car artwork appears across all my platforms — a symbol of the design‑first mindset behind my code.
+
+I build software across **Web, Desktop, Mobile, WearOS, and retro consoles**, merging engineering precision with UI/UX clarity.  
+My work spans aviation tools, business automation suites, pixel‑art games, multimedia engines, and console homebrew.
 
 I’ve shipped a **published game**, delivered **production client software**, built **full document suites**, and created **aviation tools used during real pilot training**.  
 I also develop **PS1/PS2/PSP homebrew**, design interfaces, and build cross‑platform apps using modern stacks.
@@ -144,6 +147,8 @@ Low‑level homebrew development:
 ![Animate](https://img.shields.io/badge/Animate-FF0000?logo=adobeanimate&logoColor=white&style=flat)
 ![Dreamweaver](https://img.shields.io/badge/Dreamweaver-35FA00?logo=adobedreamweaver&logoColor=black&style=flat)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white&style=flat)
+![Autodesk Sketchbook](https://img.shields.io/badge/Sketchbook-FC6C00?logo=autodesk&logoColor=white&style=flat)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=flat)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-000000?style=flat)
 
 ---
@@ -159,9 +164,8 @@ Low‑level homebrew development:
 
 ## 🔧 Currently Building
 
-- **NeroWails** — Cross‑platform IDE (Go + Wails)  
-- **NeroGPUI** — Rust/GPUI IDE using Zed’s rendering engine  
-- **PSP Digital Comics** — Feature expansion + UI polish  
+- **Love2D Xbox‑Inspired Launcher** — Retro‑tech UI launcher inspired by Xbox blades, built in Lua/LÖVE
+
 - **Art Page Redesign** — Magazine‑style layout for robertfernandez.dev/art
 
 ---
@@ -173,6 +177,6 @@ Low‑level homebrew development:
 - **Aviation Tools** — Used during actual pilot training  
 - **Console Homebrew** — PS1/PS2/PSP open‑source tutorials + JS on PS2 hardware  
 - **Certifications** — Adobe Certified Professional (Animate, Dreamweaver, Illustrator, Photoshop), Microsoft Office Specialist (Access, PowerPoint, Excel, Word)  
-- **Aviation Milestones** — First solo (Dec 2024), towered solos (Jul 2025), solo cross‑country (Nov 2025), 120+ hours as of 2026
+- **Aviation Milestones** — First solo (Dec 2024), towered solos (Jul 2025), solo cross‑country (Nov 2025), second solo cross‑country (Jul 2026), 120+ hours as of 2026
 
 ---
