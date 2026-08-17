@@ -8,6 +8,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-MungDaal321-FF0000?logo=youtube)](https://www.youtube.com/@MungDaal321)
 [![Twitch](https://img.shields.io/badge/Twitch-mungdaal321-9146FF?logo=twitch)](https://www.twitch.tv/mungdaal321)
 [![Blog](https://img.shields.io/badge/Blog-WordPress-21759B?logo=wordpress)](https://robertfernandez1.wordpress.com)
+[![Behance](https://img.shields.io/badge/Behance-robertfern5088-1769FF?logo=behance)](https://www.behance.net/robertfern5088)
+[![DeviantArt](https://img.shields.io/badge/DeviantArt-rober321-05CC47?logo=deviantart)](https://www.deviantart.com/rober321)
 
 ### Software Engineer • Digital Artist • Cross‑Platform Developer  
 ### Web • Desktop • Mobile • WearOS • Retro Consoles  
