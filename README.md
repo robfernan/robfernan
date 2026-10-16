@@ -121,7 +121,7 @@ Modern reimagining of classic interfaces and media players, exploring UI ergonom
 |---|---|---|---|
 | **[Love2D_XboxLauncher](https://github.com/robfernan/Love2D_XboxLauncher)** | Xbox-inspired desktop launcher featuring a custom frameless draggable window, gamepad-ready navigation, and authentic retro blade UI transitions. | `Lua` `Love2D (LÖVE)` `Desktop UI` | [View Repo](https://github.com/robfernan/Love2D_XboxLauncher) |
 | **[XMB Menu Launcher](https://github.com/robfernan/XMB-Menu-Launcher)** | Web-based recreation of the PlayStation 3 XrossMediaBar (XMB) interface. A browser-based menu launcher for links, custom themes, and sound effects with zero build step. | `Vanilla HTML5` `CSS3` `JavaScript` | [View Repo](https://github.com/robfernan/XMB-Menu-Launcher) |
-| **[PSP Digital Comics](https://github.com/robfernan/psp-digital-comics)** | Faithful cross-platform recreation of the iconic PSP comic reader for `.cbz` archives, packaging desktop and mobile versions. | `Wails` `Capacitor` `React` `TypeScript` `Tailwind CSS` | [View Repo](https://github.com/robfernan/psp-digital-comics) |
+| **[PSP Digital Comics](https://github.com/robfernan/psp-comics-reborn)** | Faithful cross-platform recreation of the iconic PSP comic reader for `.cbz` archives, packaging desktop and mobile versions. | `Wails` `Capacitor` `React` `TypeScript` `Tailwind CSS` | [View Repo](https://github.com/robfernan/psp-comics-reborn) |
 | **[sony2002recreation](https://github.com/robfernan/sony2002recreation)** | Authentic modern recreation of the early-2000s Sony promotional website experience and retro web design language. | `HTML5` `CSS3` `JavaScript` | [View Repo](https://github.com/robfernan/sony2002recreation) |
 
 <details>
