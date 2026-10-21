@@ -131,10 +131,11 @@ Modern reimagining of classic interfaces and media players, exploring UI ergonom
     <tr>
       <th align="center">PSP Digital Comics Reader</th>
       <th align="center">Love2D Xbox Blades Launcher</th>
+      <th align="center">Digital Comics GIF</th>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/robfernan/psp-digital-comics">
+        <a href="https://github.com/robfernan/psp-comics-reborn">
           <img src="https://raw.githubusercontent.com/robfernan/robfernan/main/digital_comics.png" width="360px" alt="PSP Digital Comics"/>
         </a>
       </td>
@@ -182,6 +183,7 @@ Modern reimagining of classic interfaces and media players, exploring UI ergonom
   <strong>Design & Creative Direction</strong><br/>
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
   <img src="https://img.shields.io/badge/UI%2FUX_Design-000000?style=flat-square&logo=figma&logoColor=white" alt="UI/UX"/>
   <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
   <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=flat-square&logo=deviantart&logoColor=white" alt="DeviantArt"/>
@@ -205,7 +207,7 @@ Modern reimagining of classic interfaces and media players, exploring UI ergonom
 ## 🏆 Milestones & Highlights
 
 - 💼 **Production Client Software:** Shipped document generation and invoice tooling utilized in real commercial business operations.
-- ✈️ **Real-World Aviation Utilities:** Engineered pilot tools (AviationPro) tested and utilized during live pilot flight training (120+ flight hours).
+- ✈️ **Real-World Aviation Utilities:** Engineered pilot tools (AviationPro) tested and utilized during live pilot flight training (129+ flight hours).
 - 🎨 **Certified Visual Designer:** Adobe Certified Professional in Visual Design, Illustration & Web Authoring (Photoshop, Illustrator, Dreamweaver, Animate).
 - 🎮 **Shipped Independent Work:** Published original game titles (Hopeless Catch) and authored open-source console homebrew documentation (PS1/PS2/PSP).
 
