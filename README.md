@@ -35,35 +35,13 @@ Building pixel-perfect, accessible web interfaces and shipping cross-platform ap
 
 ---
 
-## 🏗️ Cross-Platform App Architecture
+## 🏗️ Cross-Platform Engineering Workflow
 
-How core web technologies map into multi-platform deliverables:
+Building **web-first** with clean responsive layouts, uniform viewport scaling, and fluid sizing tokens, then natively packaging for any target platform:
 
-```mermaid
-flowchart TD
-    subgraph Core["Core Web Layer (Primary Specialization)"]
-        direction TB
-        HTML["HTML5 & Semantic Structure"]
-        CSS["Tailwind CSS & Modern CSS3"]
-        JS["Modern JavaScript & TypeScript"]
-        React["React Component Tree"]
-    end
-
-    subgraph Targets["Target Platforms"]
-        Web["🌐 Web Applications<br/>(SPA / PWA / Responsive Sites)"]
-        Mobile["📱 Mobile: Android & iOS<br/>(Capacitor Runtime + Native Plugins)"]
-        Desktop["🖥️ Desktop: Windows / macOS / Linux<br/>(Wails + Lightweight Go Backend)"]
-    end
-
-    Core --> Web
-    Core --> Mobile
-    Core --> Desktop
-
-    classDef core fill:#1e293b,stroke:#38bdf8,color:#f8fafc
-    classDef targets fill:#0f172a,stroke:#4ade80,color:#f8fafc
-    class Core core
-    class Web,Mobile,Desktop targets
-```
+- 🌐 **Web First:** Crafted with deep web fundamentals (**Vanilla HTML5, CSS3, Modern JavaScript**) or component-driven architectures (**React, TypeScript, Tailwind CSS**). Designed with mobile-first responsive viewports, fluid typography, and WCAG accessibility.
+- 📱 **Mobile & Hybrid Apps:** Native Android and iOS delivery via **Capacitor** runtime plugins and **Flutter** for performant, cross-platform mobile experiences.
+- 🖥️ **Lightweight Desktop:** High-performance, low-overhead native desktop applications using **Wails** (pairing modern web frontends with the power and speed of a Go backend).
 
 ---
 
