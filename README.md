@@ -28,9 +28,10 @@ Building pixel-perfect, accessible web interfaces and shipping cross-platform ap
 | 💻 **Core Web (Specialization)** | **HTML5, CSS3, Modern JavaScript (ESNext).** Grounded in deep web fundamentals: semantic markup, responsive layouts, CSS architecture (Flexbox, Grid, custom animations), DOM manipulation, and WCAG accessibility standards. |
 | ⚛️ **Modern Frontend Stack** | **React, TypeScript, Tailwind CSS.** Building robust, type-safe, component-driven client applications, state management, and modern design systems. |
 | 📱 **Mobile & Hybrid Apps** | **Capacitor.** Packaging web apps into native Android & iOS binaries with device hardware integration, offline storage, and touch-first responsiveness. |
+| ⌚ **Wearables & Embedded UI** | **Garmin Connect IQ (Monkey C).** Engineering production smartwatch faces with real-time vector graphics, ultra-low memory optimization (sub-4 KB RAM), and universal multi-device deployment. |
 | 🖥️ **Cross-Platform Desktop** | **Wails.** Developing high-performance, lightweight native desktop applications using Go backend power paired with modern web frontends (HTML/CSS/JS/React). |
 | 🎨 **Design & Visual Creative** | **UI/UX Design, Visual Arts & Content Creation.** Portfolios on **[Behance](https://www.behance.net/robertfern5088)** and **[DeviantArt](https://www.deviantart.com/rober321)**, ensuring frontend engineering is backed by aesthetic layout, color theory, and user-centric design. |
-| 🛠️ **Build & Tooling** | Vite, Webpack, npm, pnpm, Git, Chrome DevTools, REST APIs, Android Studio. |
+| 🛠️ **Build & Tooling** | Vite, Webpack, npm, pnpm, Git, Chrome DevTools, REST APIs, Android Studio, Garmin Connect IQ SDK. |
 | 🎯 **Philosophy** | "One web codebase, everywhere." Clean architecture, zero-bloat interfaces, and accessible UX across desktop, tablet, and mobile. |
 
 ---
@@ -49,12 +50,27 @@ Building **web-first** with clean responsive layouts, uniform viewport scaling, 
 
 Grouped by platform and specialization.
 
+### ⌚ Wearables & Embedded Systems (Garmin Connect IQ)
+
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **[ChronoGT](https://github.com/robfernan/ChronoGT)** | Motorsport-inspired racing tachometer watch face paying homage to 90s JDM instrument clusters and Gran Turismo. Features 100% procedural 2D vector graphics, sequential shift-light LEDs, AMOLED burn-in protection, and an ultra-light 3.5 KB RAM footprint. Certified across 94 round color Garmin models. | `Monkey C` `Connect IQ SDK` `Vector 2D` `Embedded UI` | [View Repo](https://github.com/robfernan/ChronoGT) · [Garmin Store](https://apps.garmin.com/en-US/apps/a213d2da-0d13-4e02-ae58-3525fb89306a) · [YouTube Demo](https://youtube.com/shorts/R3h-WX0FZ2w) |
+
+<p align="center">
+  <a href="https://github.com/robfernan/ChronoGT">
+    <img src="https://raw.githubusercontent.com/robfernan/robfernan/main/chronogt_preview.gif" width="340px" alt="ChronoGT Watch Face Demo"/>
+  </a>
+  <br/>
+  <sub>🏎️ <em>ChronoGT live sweeping 240° tachometer and 5-LED sequential shift lights on Garmin Venu® 3</em></sub>
+</p>
+
 ### 📱 Cross-Platform & Mobile (Wails & Capacitor)
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
 | **[Paperworks](https://github.com/robfernan/Paperworks)** | Full-featured business automation suite and professional document generator. Packages a modern, responsive web frontend into native cross-platform desktop (Wails + Go) and mobile (Capacitor for Android) applications. | `Wails` `Capacitor` `Go` `React` `TypeScript` `Tailwind CSS` | [View Repo](https://github.com/robfernan/Paperworks) |
 | **[AviationPro](https://github.com/robfernan/AviationPro)** | Aviation-focused web tool suite / platform featuring interactive aeronautical utilities, data rendering, and a responsive interface tailored for flight tracking and aviation workflows. | `Wails` `Capacitor` `Go` `React` `TypeScript` `Tailwind CSS` `HTML5/CSS3` | [View Repo](https://github.com/robfernan/AviationPro) · [Web Preview](https://robertfernandez.dev) |
+
 
 <details>
   <summary>📸 <strong>Preview Platform Views (AviationPro & Paperworks)</strong></summary>
