@@ -8,7 +8,6 @@
 
 B.A. in Computer Science (FAU) · 5+ years shipping cross-platform business automation, commercial web platforms, and published smartwatch software on the official Garmin Connect IQ Store.
 
-[![Unique Visitors](https://visitor-badge.laobi.icu/badge?page_id=robfernan.robfernan&color=007cc3&style=for-the-badge&title=UNIQUE+VISITORS)](https://github.com/robfernan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robfernan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://robertfernandez.dev)
 [![Email](https://img.shields.io/badge/Email-rf80678%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rf80678@gmail.com)
