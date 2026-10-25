@@ -4,35 +4,33 @@
 
 ![Banner](https://raw.githubusercontent.com/robfernan/robfernan/main/banner.png)
 
-**Frontend Specialist · Cross-Platform & Hybrid Mobile Developer · UI/UX Designer & Creator**
+**Full-Stack Software Engineer · UI/UX Designer · Aviator**
 
-Building pixel-perfect, accessible web interfaces and shipping cross-platform apps to desktop and mobile.
+B.A. in Computer Science (FAU) · 5+ years shipping cross-platform business automation, commercial web platforms, and published smartwatch software on the official Garmin Connect IQ Store.
 
+[![Profile Views](https://komarev.com/ghpvc/?username=robfernan&color=007cc3&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/robfernan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robfernan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robfernan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://robertfernandez.dev)
 [![Email](https://img.shields.io/badge/Email-rf80678%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rf80678@gmail.com)
 
 <p align="center">
-  <sub>✈️ <em>Explore a web-preview version of <strong>AviationPro</strong> in the aviation section on my <a href="https://robertfernandez.dev">live portfolio</a> (native desktop/mobile full version in repo).</em></sub>
+  <sub>✈️ <em>Explore interactive aviation utilities & flight planning in the aviation section on my <a href="https://robertfernandez.dev/aviation">live portfolio</a>.</em></sub>
 </p>
 
 </div>
 
 ---
 
-## 🧭 At a glance
+## 🧭 Executive Summary & Core Competencies
 
 | Category | Details |
 |---|---|
-| 💻 **Core Web (Specialization)** | **HTML5, CSS3, Modern JavaScript (ESNext).** Grounded in deep web fundamentals: semantic markup, responsive layouts, CSS architecture (Flexbox, Grid, custom animations), DOM manipulation, and WCAG accessibility standards. |
-| ⚛️ **Modern Frontend Stack** | **React, TypeScript, Tailwind CSS.** Building robust, type-safe, component-driven client applications, state management, and modern design systems. |
-| 📱 **Mobile & Hybrid Apps** | **Capacitor.** Packaging web apps into native Android & iOS binaries with device hardware integration, offline storage, and touch-first responsiveness. |
-| ⌚ **Wearables & Embedded UI** | **Garmin Connect IQ (Monkey C).** Engineering production smartwatch faces with real-time vector graphics, ultra-low memory optimization (sub-4 KB RAM), and universal multi-device deployment. |
-| 🖥️ **Cross-Platform Desktop** | **Wails.** Developing high-performance, lightweight native desktop applications using Go backend power paired with modern web frontends (HTML/CSS/JS/React). |
-| 🎨 **Design & Visual Creative** | **UI/UX Design, Visual Arts & Content Creation.** Portfolios on **[Behance](https://www.behance.net/robertfern5088)** and **[DeviantArt](https://www.deviantart.com/rober321)**, ensuring frontend engineering is backed by aesthetic layout, color theory, and user-centric design. |
-| 🛠️ **Build & Tooling** | Vite, Webpack, npm, pnpm, Git, Chrome DevTools, REST APIs, Android Studio, Garmin Connect IQ SDK. |
-| 🎯 **Philosophy** | "One web codebase, everywhere." Clean architecture, zero-bloat interfaces, and accessible UX across desktop, tablet, and mobile. |
+| 💻 **Full-Stack & Systems** | **TypeScript, React, Go, C++, Python, Dart/Flutter.** Deep architecture across modern component frontends, asynchronous backends, and low-level embedded hardware. |
+| 💼 **Production Client Software** | **Florida Window & Door Maintenance, Inc. (Jan 2021 – Present).** Architected custom commercial proposal & invoicing engines across Desktop & Mobile, cutting manual entry by 40% and accelerating turnarounds by 35%. |
+| ⌚ **Wearables & Embedded UI** | **Garmin Connect IQ (Monkey C).** 100+ active downloads on the official Garmin Store for **ChronoGT**, engineered with 100% procedural 2D vectors and sub-4 KB RAM footprints across 94 certified watch models. |
+| 🖥️ **Cross-Platform Desktop & Mobile** | **Wails (Go + React), Capacitor (Android/iOS), Flutter.** Bridging high-performance native binaries with modern, reactive web design tokens. |
+| 🎨 **Design & Visual Creative** | **4x Adobe Certified Professional** (Photoshop, Illustrator, Dreamweaver, Animate). Pre-press typography, CMYK print collateral, and WCAG/ADA accessibility standards. |
+| ✈️ **Aviation Discipline** | FAA Student Pilot with **129.2+ logged flight hours**. Applying aviation-grade rigor, checklists, and precision to systems architecture. |
 
 ---
 
@@ -48,13 +46,11 @@ Building **web-first** with clean responsive layouts, uniform viewport scaling, 
 
 ## 🚀 Featured Projects
 
-Grouped by platform and specialization.
-
 ### ⌚ Wearables & Embedded Systems (Garmin Connect IQ)
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **[ChronoGT](https://github.com/robfernan/ChronoGT)** | Motorsport-inspired racing tachometer watch face paying homage to 90s JDM instrument clusters and Gran Turismo. Features 100% procedural 2D vector graphics, sequential shift-light LEDs, AMOLED burn-in protection, and an ultra-light 3.5 KB RAM footprint. Certified across 94 round color Garmin models. | `Monkey C` `Connect IQ SDK` `Vector 2D` `Embedded UI` | [View Repo](https://github.com/robfernan/ChronoGT) · [Garmin Store](https://apps.garmin.com/en-US/apps/a213d2da-0d13-4e02-ae58-3525fb89306a) · [YouTube Demo](https://youtube.com/shorts/R3h-WX0FZ2w) |
+| **[ChronoGT](https://github.com/robfernan/ChronoGT)** | Motorsport-inspired racing tachometer watch face paying homage to 90s JDM instrument clusters and Gran Turismo. Features 100% procedural 2D vector graphics, sequential shift-light LEDs, AMOLED burn-in protection, and an ultra-light 3.5 KB RAM footprint. **100+ active downloads on the official store.** | `Monkey C` `Connect IQ SDK` `Vector 2D` `Embedded UI` | [View Repo](https://github.com/robfernan/ChronoGT) · [Garmin Store](https://apps.garmin.com/en-US/apps/a213d2da-0d13-4e02-ae58-3525fb89306a) · [YouTube Demo](https://youtube.com/shorts/R3h-WX0FZ2w) |
 
 <p align="center">
   <a href="https://github.com/robfernan/ChronoGT">
@@ -64,13 +60,12 @@ Grouped by platform and specialization.
   <sub>🏎️ <em>ChronoGT live sweeping 240° tachometer and 5-LED sequential shift lights on Garmin Venu® 3</em></sub>
 </p>
 
-### 📱 Cross-Platform & Mobile (Wails & Capacitor)
+### 📱 Cross-Platform & Mobile (Wails, Capacitor & Flutter)
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
 | **[Paperworks](https://github.com/robfernan/Paperworks)** | Full-featured business automation suite and professional document generator. Packages a modern, responsive web frontend into native cross-platform desktop (Wails + Go) and mobile (Capacitor for Android) applications. | `Wails` `Capacitor` `Go` `React` `TypeScript` `Tailwind CSS` | [View Repo](https://github.com/robfernan/Paperworks) |
-| **[AviationPro](https://github.com/robfernan/AviationPro)** | Aviation-focused web tool suite / platform featuring interactive aeronautical utilities, data rendering, and a responsive interface tailored for flight tracking and aviation workflows. | `Wails` `Capacitor` `Go` `React` `TypeScript` `Tailwind CSS` `HTML5/CSS3` | [View Repo](https://github.com/robfernan/AviationPro) · [Web Preview](https://robertfernandez.dev) |
-
+| **[AviationPro](https://github.com/robfernan/AviationPro)** | Aviation-focused utility suite featuring interactive aeronautical calculations, METAR weather monitoring, and situational awareness tools tested during 129+ logged flight hours. | `Wails` `Capacitor` `Go` `React` `TypeScript` `Tailwind CSS` | [View Repo](https://github.com/robfernan/AviationPro) · [Web Preview](https://robertfernandez.dev/aviation) |
 
 <details>
   <summary>📸 <strong>Preview Platform Views (AviationPro & Paperworks)</strong></summary>
@@ -101,83 +96,48 @@ Grouped by platform and specialization.
   </table>
 </details>
 
-### 🌐 Core Web & Frontend
+### 🕹️ Retro Hardware & UI Recreations
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **[React Portfolio](https://github.com/robfernan/react-portfolio)** | My official personal portfolio website. Built with React, TypeScript, and modern responsive CSS, featuring interactive component states, project showcases, and clean UI architecture. | `React` `TypeScript` `Tailwind CSS` `Vite` | [View Repo](https://github.com/robfernan/react-portfolio) · [Live Site](https://robertfernandez.dev) |
-
-### 🕹️ Creative & Modern Recreations (Hobby)
-
-Modern reimagining of classic interfaces and media players, exploring UI ergonomics, desktop launchers, and retro-tech nostalgia:
-
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| **[Love2D_XboxLauncher](https://github.com/robfernan/Love2D_XboxLauncher)** | Xbox-inspired desktop launcher featuring a custom frameless draggable window, gamepad-ready navigation, and authentic retro blade UI transitions. | `Lua` `Love2D (LÖVE)` `Desktop UI` | [View Repo](https://github.com/robfernan/Love2D_XboxLauncher) |
-| **[XMB Menu Launcher](https://github.com/robfernan/XMB-Menu-Launcher)** | Web-based recreation of the PlayStation 3 XrossMediaBar (XMB) interface. A browser-based menu launcher for links, custom themes, and sound effects with zero build step. | `Vanilla HTML5` `CSS3` `JavaScript` | [View Repo](https://github.com/robfernan/XMB-Menu-Launcher) |
-| **[PSP Digital Comics](https://github.com/robfernan/psp-comics-reborn)** | Faithful cross-platform recreation of the iconic PSP comic reader for `.cbz` archives, packaging desktop and mobile versions. | `Wails` `Capacitor` `React` `TypeScript` `Tailwind CSS` | [View Repo](https://github.com/robfernan/psp-comics-reborn) |
-| **[sony2002recreation](https://github.com/robfernan/sony2002recreation)** | Authentic modern recreation of the early-2000s Sony promotional website experience and retro web design language. | `HTML5` `CSS3` `JavaScript` | [View Repo](https://github.com/robfernan/sony2002recreation) |
-
-<details>
-  <summary>📸 <strong>Preview Recreations (PSP Comics & Xbox Launcher)</strong></summary>
-  <br/>
-  <table>
-    <tr>
-      <th align="center">PSP Digital Comics Reader</th>
-      <th align="center">Love2D Xbox Blades Launcher</th>
-      <th align="center">Digital Comics GIF</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/robfernan/psp-comics-reborn">
-          <img src="https://raw.githubusercontent.com/robfernan/robfernan/main/digital_comics.png" width="360px" alt="PSP Digital Comics"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/robfernan/Love2D_XboxLauncher">
-          <img src="https://github.com/robfernan/robfernan/blob/main/xbox_love2d.png?raw=true" width="360px" alt="Xbox Launcher Progress"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/robfernan/DigitalComicsPSP">
-          <img src="https://github.com/robfernan/robfernan/blob/main/DigitalComics.gif" width="360px" alt="Digital Comics Progress"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</details>
+| **[psp-comics-reborn](https://github.com/robfernan/psp-comics-reborn)** | Faithful modern recreation of the iconic PlayStation Portable Digital Comics reader. Built with fluid canvas page rendering and retro tactile controls. | `TypeScript` `React` `Vite` `Tailwind CSS` | [View Repo](https://github.com/robfernan/psp-comics-reborn) |
+| **[PSP-Programming](https://github.com/robfernan/PSP-Programming)** | Low-level C and SDL2 homebrew engineering tutorials and verified execution modules on Sony PSP hardware. | `C` `SDL2` `MIPS` `PSPSDK` | [View Repo](https://github.com/robfernan/PSP-Programming) |
+| **[PS1-Mips-Programming](https://github.com/robfernan/PS1-Mips-Programming)** | Bare-metal MIPS R3000A assembly and GPU ordering table rendering for PlayStation 1, compiled with 100% native Windows 11 toolchains. | `MIPS Assembly` `C` `armips` `Sony PS1 GPU` | [View Repo](https://github.com/robfernan/PS1-Mips-Programming) |
 
 ---
 
 ## 🛠️ Complete Tech Stack
 
 <p align="center">
-  <strong>Core Frontend</strong><br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <strong>Programming Languages & Runtimes</strong><br/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Monkey_C-FF2200?style=flat-square&logo=garmin&logoColor=white" alt="Monkey C"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
 </p>
 
 <p align="center">
-  <strong>Cross-Platform & Runtimes</strong><br/>
+  <strong>Frameworks & Cross-Platform Engines</strong><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Wails-DF0000?style=flat-square&logo=go&logoColor=white" alt="Wails"/>
   <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Garmin_Connect_IQ-007CC3?style=flat-square&logo=garmin&logoColor=white" alt="Garmin Connect IQ"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio"/>
 </p>
 
 <p align="center">
-  <strong>Design & Creative Direction</strong><br/>
+  <strong>Design, Visual Identity & Creative Suite</strong><br/>
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=flat-square&logo=adobe-indesign&logoColor=white" alt="InDesign"/>
   <img src="https://img.shields.io/badge/UI%2FUX_Design-000000?style=flat-square&logo=figma&logoColor=white" alt="UI/UX"/>
   <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
   <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=flat-square&logo=deviantart&logoColor=white" alt="DeviantArt"/>
@@ -185,11 +145,11 @@ Modern reimagining of classic interfaces and media players, exploring UI ergonom
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="165em" alt="Robert Fernandez's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=robfernan&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robfernan&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robfernan&layout=compact&theme=tokyonight&hide_border=true&hide=html,css"/>
 </div>
 
 <p align="center">
@@ -198,18 +158,20 @@ Modern reimagining of classic interfaces and media players, exploring UI ergonom
 
 ---
 
-## 🏆 Milestones & Highlights
+## 🏆 Verified Milestones & Credentials
 
-- 💼 **Production Client Software:** Shipped document generation and invoice tooling utilized in real commercial business operations.
-- ✈️ **Real-World Aviation Utilities:** Engineered pilot tools (AviationPro) tested and utilized during live pilot flight training (129+ flight hours).
-- 🎨 **Certified Visual Designer:** Adobe Certified Professional in Visual Design, Illustration & Web Authoring (Photoshop, Illustrator, Dreamweaver, Animate).
-- 🎮 **Shipped Independent Work:** Published original game titles (Hopeless Catch) and authored open-source console homebrew documentation (PS1/PS2/PSP).
+- 💼 **Production Enterprise Software:** Jan 2021 – Present as Software Developer & UI/UX Designer at Florida Window & Door Maintenance, Inc. Reduced manual billing entries by 40% with custom Flutter, Capacitor, and TypeScript automation pipelines.
+- ⌚ **Published Wearables Developer:** 100+ active downloads on the official Garmin Connect IQ Store for ChronoGT within 48 hours of release across 94 certified round smartwatch models.
+- 🎓 **Academic Foundation:** B.A. in Computer Science (Minor in History) & A.A. in Computer Science from Florida Atlantic University (FAU).
+- ✈️ **FAA Certified Student Pilot:** 129.2+ logged flight hours. Real-world cockpit data collection and situational awareness tooling.
+- 🎨 **4x Adobe Certified Professional:** Certified in Photoshop CC, Illustrator CC, Dreamweaver CC, and Animate CC. Expert in vector imaging, typography, and pre-press prep.
+- 🎮 **Game Jam Winner & Hardware Homebrewer:** Published original titles (Hopeless Catch on itch.io) and author of modern Windows-native PS1/PSP homebrew toolchains.
 
 ---
 
 ## 🤝 Let's Connect & Build
 
-I'm always open to discussing frontend engineering roles, cross-platform app projects, creative collaborations, or open-source work.
+Open to engineering roles, enterprise cross-platform contracts, creative design collaborations, or open-source software:
 
 - **GitHub:** [@robfernan](https://github.com/robfernan)
 - **LinkedIn:** [linkedin.com/in/robfernan](https://linkedin.com/in/robfernan)
@@ -220,5 +182,5 @@ I'm always open to discussing frontend engineering roles, cross-platform app pro
 ---
 
 <div align="center">
-<sub>⚡ Built with HTML5, CSS3, JavaScript, TypeScript, React, Tailwind, Wails & Capacitor</sub>
+<sub>⚡ Designed with precision · Engineered across Web, Desktop, Mobile & Embedded</sub>
 </div>
