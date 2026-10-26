@@ -10,6 +10,7 @@ B.A. in Computer Science (FAU) · 5+ years shipping cross-platform business auto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robfernan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://robertfernandez.dev)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://robertfernandez7.artstation.com)
 [![Email](https://img.shields.io/badge/Email-rf80678%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rf80678@gmail.com)
 
 <p align="center">
@@ -138,8 +139,9 @@ Building **web-first** with clean responsive layouts, uniform viewport scaling, 
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
   <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=flat-square&logo=adobe-indesign&logoColor=white" alt="InDesign"/>
   <img src="https://img.shields.io/badge/UI%2FUX_Design-000000?style=flat-square&logo=figma&logoColor=white" alt="UI/UX"/>
-  <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
-  <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=flat-square&logo=deviantart&logoColor=white" alt="DeviantArt"/>
+  <a href="https://www.behance.net/robertfern5088"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/></a>
+  <a href="https://www.deviantart.com/rober321"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=flat-square&logo=deviantart&logoColor=white" alt="DeviantArt"/></a>
+  <a href="https://www.artstation.com/robertfernandez7"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white" alt="ArtStation"/></a>
 </p>
 
 ---
