@@ -32,7 +32,7 @@ B.A. Computer Science Concentration, FAU · Shipping production business softwar
 
 | | |
 |---|---|
-| **Production** | Software Developer & UI/UX Designer at [Florida Window & Door Maintenance](https://floridawindowndoormaintenance.com) (Jan 2021 – Present) — commercial web, proposals, invoicing |
+| **Production** | Software Developer & UI/UX Designer at [Florida Window & Door Maintenance, Inc.](https://floridawindowndoormaintenance.com) (Jan 2021 – Present) — commercial web, proposals, invoicing |
 | **Wearables** | [ChronoGT](https://apps.garmin.com/en-US/apps/a213d2da-0d13-4e02-ae58-3525fb89306a) on the official Garmin store · [demo](https://youtube.com/shorts/R3h-WX0FZ2w) |
 | **Aviation** | FAA Student Pilot · **129.2** logged hours as of 2026-10-14 (see [/aviation](https://robertfernandez.dev/aviation) flight log preview) |
 | **School** | B.A. CS Concentration (Minor History), FAU · Dec 2022 · A.A. CS · May 2021 |
