@@ -21,7 +21,7 @@ B.A. Computer Science Concentration, FAU · Shipping production business softwar
 
 ## Now building
 
-- **[ChronoGT](https://github.com/robfernan/ChronoGT)** — motorsport tachometer watch face on the [Garmin Connect IQ Store](https://apps.garmin.com/en-US/apps/a213d2da-0d13-4e02-ae58-3525fb89306a) (94 watch models; procedural vectors; tight RAM budget)
+- **[ChronoGT](https://github.com/robfernan/ChronoGT)** — motorsport tachometer watch face on the [Garmin Connect IQ Store](https://apps.garmin.com/en-US/apps/a213d2da-0d13-4e02-ae58-3525fb89306a) (159 watch models; procedural vectors; tight RAM budget)
 - **[AviationPro](https://github.com/robfernan/AviationPro)** — browser EFB / flight utilities (NavLog, CX-3 style calcs, weather, W&B) · [Live](https://robfernan.github.io/AviationPro/) · [Portfolio](https://robertfernandez.dev/aviation)
 - **[pico-hil-autopilot](https://github.com/robfernan/pico-hil-autopilot)** — RP2350 hardware-in-the-loop flight-dynamics rig + SDL2 ground station (newest push)
 - **[Paperworks](https://github.com/robfernan/Paperworks)** — document / business suite · [Live web](https://robfernan.github.io/Paperworks/) · native desktop & mobile in progress
@@ -33,17 +33,18 @@ B.A. Computer Science Concentration, FAU · Shipping production business softwar
 | | |
 |---|---|
 | **Production** | Software Developer & UI/UX Designer at [Florida Window & Door Maintenance, Inc.](https://floridawindowndoormaintenance.com) (Jan 2021 – Present) — commercial web, proposals, invoicing |
-| **Wearables** | [ChronoGT](https://apps.garmin.com/en-US/apps/a213d2da-0d13-4e02-ae58-3525fb89306a) on the official Garmin store · [demo](https://youtube.com/shorts/R3h-WX0FZ2w) |
+| **Wearables** | [ChronoGT](https://apps.garmin.com/en-US/apps/a213d2da-0d13-4e02-ae58-3525fb89306a) v1.1.0 on the official Garmin store — three heritage racing clusters, on-watch settings menu, 159 certified models, live and free on Connect IQ (100+ downloads) · [demo](https://youtube.com/shorts/R3h-WX0FZ2w) |
+| **Hardware** | Custom RP2350 (Raspberry Pi Pico 2) hardware-in-the-loop flight-dynamics rig + SDL2 ground station ([pico-hil-autopilot](https://github.com/robfernan/pico-hil-autopilot)) |
 | **Aviation** | FAA Student Pilot · **129.2** logged hours as of 2026-10-14 (see [/aviation](https://robertfernandez.dev/aviation) flight log preview) |
 | **School** | B.A. CS Concentration (Minor History), FAU · Dec 2022 · A.A. CS · May 2021 |
 | **Design** | 4× Adobe Certified Professional (Photoshop, Illustrator, Dreamweaver, Animate) |
 
 <p align="center">
   <a href="https://github.com/robfernan/ChronoGT">
-    <img src="https://raw.githubusercontent.com/robfernan/robfernan/main/chronogt_preview.gif" width="340" alt="ChronoGT watch face demo"/>
+    <img src="https://raw.githubusercontent.com/robfernan/robfernan/main/chronogt_v1_1_0.png" width="680" alt="ChronoGT v1.1.0 Multi-Cluster watch face showing Classic JDM, Honda S2000 AP1, and 1985 Citroën BX 19 Digit layouts"/>
   </a>
   <br/>
-  <sub>ChronoGT on Garmin Venu 3 — sweeping tach + sequential shift lights</sub>
+  <sub>ChronoGT v1.1.0 Multi-Cluster — Classic JDM, Honda S2000 AP1, and 1985 Citroën BX 19 Digit on Garmin Connect IQ</sub>
 </p>
 
 ---
@@ -56,6 +57,12 @@ Web-first React/TypeScript (Vite, Tailwind), then package to the surface that ne
 - **Desktop** — Wails (Go + React) where a native shell helps
 - **Mobile** — Capacitor / Flutter when the product needs it
 - **Wearables & embedded** — Monkey C / Connect IQ, C/C++ & SDL where hardware matters
+
+### How I think about constraints
+
+- **Aviation discipline in software:** Flight training enforces methodical checklists and rigorous failure-mode analysis. I don't ship a path I haven't walked through as a failure case.
+- **Embedded & resource boundaries:** Developing ChronoGT for memory-constrained Garmin MIP displays required pure 2D vector mathematics and deterministic rendering without heavy bitmap allocations.
+- **Typed contracts across surfaces:** Web-first frontends (React/TypeScript) stay resilient when packaging to Wails or Capacitor because data schemas and boundary IPC calls are strictly typed and audited upfront.
 
 ### Competencies
 
@@ -74,7 +81,7 @@ Web-first React/TypeScript (Vite, Tailwind), then package to the surface that ne
 
 | Project | One-liner | Links |
 |---|---|---|
-| **[ChronoGT](https://github.com/robfernan/ChronoGT)** | Gran Turismo–inspired tach watch face; procedural 2D vectors; published on Garmin | [Repo](https://github.com/robfernan/ChronoGT) · [Store](https://apps.garmin.com/en-US/apps/a213d2da-0d13-4e02-ae58-3525fb89306a) · [YouTube](https://youtube.com/shorts/R3h-WX0FZ2w) |
+| **[ChronoGT](https://github.com/robfernan/ChronoGT)** | Motorsport watch face with three heritage racing clusters (Classic JDM Analog, S2000 AP1, BX 19 Digit); procedural 2D vectors; published free on Garmin | [Repo](https://github.com/robfernan/ChronoGT) · [Store](https://apps.garmin.com/en-US/apps/a213d2da-0d13-4e02-ae58-3525fb89306a) · [YouTube](https://youtube.com/shorts/R3h-WX0FZ2w) |
 
 ### Cross-platform apps
 
@@ -134,8 +141,6 @@ Open to engineering roles, cross-platform contracts, and design collaborations.
 - **GitHub:** [@robfernan](https://github.com/robfernan)
 - **Streaming / maker:** [YouTube](https://www.youtube.com/@MungDaal321) · [Twitch](https://www.twitch.tv/mungdaal321) · [itch.io](https://mungdaal321.itch.io)
 - **Art:** [ArtStation](https://robertfernandez7.artstation.com) · [Behance](https://www.behance.net/robertfern5088)
-
-Contact via the [portfolio](https://robertfernandez.dev) — keeps the inbox off scrapers.
 
 ---
 
